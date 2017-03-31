@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JH4_jdpollack</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="word_context_menu_prompt">Pick Option, Hit Enter</string>
+</resources>
