@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Pick Action?" >
+    <item android:id="@+id/remove_word"
+        android:title="Remove" />
+    <item android:id="@+id/capitalize_word"
+        android:title="CAPITALIZE WORD" />
+    <item android:id="@+id/lower_case_word"
+        android:title="lower case word" />
+    <item android:id="@+id/capitalize_first_letter"
+        android:title="Capitalize First Character" />
+    <item android:id="@+id/edit_word"
+        android:title="Edit Word" />
+</menu>
